@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2019-11-11 04:45:20Z" end-time="2019-11-11 04:45:21Z" duration="0.3274943">
+  <test-suite type="TestSuite" id="1000" name="moby_fps" fullname="moby_fps" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-11-11 04:45:20Z" end-time="2019-11-11 04:45:21Z" duration="0.327494" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <test-suite type="Assembly" id="1003" name="Tests.dll" fullname="C:/Users/tristan.bishop1/.jenkins/workspace/jenkins_shooter/Library/ScriptAssemblies/Tests.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-11-11 04:45:20Z" end-time="2019-11-11 04:45:21Z" duration="0.292047" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="7104" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+      </properties>
+      <test-suite type="TestSuite" id="1004" name="Tests" fullname="Tests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-11-11 04:45:20Z" end-time="2019-11-11 04:45:21Z" duration="0.277764" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestFixture" id="1001" name="SampleTests" fullname="Tests.SampleTests" classname="Tests.SampleTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2019-11-11 04:45:20Z" end-time="2019-11-11 04:45:21Z" duration="0.258714" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-case id="1002" name="PlayeMove" fullname="Tests.SampleTests.PlayeMove" methodname="PlayeMove" classname="Tests.SampleTests" runstate="Runnable" seed="987622414" result="Passed" start-time="2019-11-11 04:45:21Z" end-time="2019-11-11 04:45:21Z" duration="0.230869" asserts="0">
+            <properties>
+              <property name="_JOINTYPE" value="UnityCombinatorial" />
+            </properties>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
